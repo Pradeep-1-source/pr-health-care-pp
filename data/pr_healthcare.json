@@ -1,0 +1,151 @@
+{
+  "clinicInfo": {
+    "name": "PR HEALTH CARE",
+    "tagline": "Your Health, Our Priority - Compassionate, Reliable Medical Care",
+    "phone": "7305053083",
+    "whatsapp": "7305053083",
+    "email": "contact@prhealthcare.in",
+    "address": "First Floor, Healthcare Suite, Gandhi Road, Chennai, Tamil Nadu - 600001",
+    "area": "Gandhi Road",
+    "cityState": "Chennai, Tamil Nadu",
+    "workingHoursWeekday": "Monday – Saturday: 8:00 AM – 8:30 PM",
+    "workingHoursSunday": "Sunday: 9:00 AM – 1:00 PM",
+    "emergencyNotice": "For critical medical emergencies, please call emergency services or visit the nearest 24/7 emergency hospital immediately.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&q=80&w=1200",
+    "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124414.28775468725!2d80.14663673756317!3d13.047487785501865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265ea4f7d3361%3A0x6e61a70b6863d433!2sChennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+  },
+  "homepage": {
+    "heroBadge": "Dedicated Patient-Centered Healthcare",
+    "heroTitle": "Your Health, Our Priority",
+    "heroHighlight": "Professional Medical Care You Can Trust",
+    "heroSubtitle": "Welcome to PR HEALTH CARE. We provide comprehensive primary medical consultations, preventive screenings, and routine health checkups delivered with patient-centered compassion and clinical integrity.",
+    "whyChooseUs": [
+      {
+        "id": "w1",
+        "title": "Personalized Consultations",
+        "description": "We take the time to listen carefully to your concerns, review your symptoms, and explain every treatment option clearly.",
+        "icon": "Stethoscope"
+      },
+      {
+        "id": "w2",
+        "title": "Proactive Preventive Care",
+        "description": "Routine screenings and vital assessments that detect early warning signs and keep you feeling your best.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "id": "w3",
+        "title": "Transparent & Ethical Practice",
+        "description": "Only evidence-based diagnoses, ethical medical advice, and honest care without unnecessary investigations.",
+        "icon": "HeartPulse"
+      },
+      {
+        "id": "w4",
+        "title": "Convenient Access & Fast Contact",
+        "description": "Quick appointment requests and direct WhatsApp connectivity with our clinic staff at 7305053083.",
+        "icon": "Clock"
+      }
+    ],
+    "aboutPreviewTitle": "A Modern Clinic Built Around Patient Well-being",
+    "aboutPreviewText": "At PR HEALTH CARE, we understand that quality medicine requires both clinical competence and genuine empathy. We are committed to fostering lasting relationships with individuals and families across our community, offering accessible medical guidance in a clean, professional, and tranquil clinic environment.",
+    "aboutHighlights": [
+      "Doctor consultation focused on comprehensive diagnosis and patient comfort",
+      "Clear guidance on lifestyle modifications and preventive health routines",
+      "Fast-track appointment scheduling with minimal waiting times",
+      "Direct reception support via phone and WhatsApp on 7305053083"
+    ]
+  },
+  "services": [
+    {
+      "id": "general-health-checkup",
+      "name": "General Health Checkup",
+      "slug": "general-health-checkup",
+      "shortDescription": "Our signature comprehensive health screening designed to evaluate overall wellness, baseline vitals, metabolic markers, and preventive health status.",
+      "description": "The General Health Checkup at PR HEALTH CARE provides a detailed, proactive evaluation of your overall health. Our clinical team checks critical physiological markers including blood pressure, pulse rate, oxygen saturation, body mass index, and blood glucose. The assessment concludes with an actionable consultation outlining preventive recommendations, dietary balance, and lifestyle adjustments tailored to your profile.",
+      "features": [
+        "Complete vital sign assessment (BP, Heart Rate, Pulse Oximetry, BMI)",
+        "Blood sugar level screening (Random / Fasting)",
+        "Head-to-toe baseline physical and systemic examination",
+        "One-on-one lifestyle and preventive health consultation",
+        "Comprehensive health summary report for your personal records"
+      ],
+      "icon": "Activity",
+      "isHighlighted": true,
+      "isActive": true,
+      "order": 1
+    },
+    {
+      "id": "general-consultation",
+      "name": "General Consultation",
+      "slug": "general-consultation",
+      "shortDescription": "In-depth clinical evaluation for acute illnesses, fevers, seasonal infections, digestive issues, chronic pain, and routine medical concerns.",
+      "description": "Whether you are experiencing unexpected fever, respiratory symptoms, aches, gastrointestinal discomfort, or require a thorough medical opinion, our General Consultation offers attentive clinical diagnosis. We take the time to evaluate your medical history, perform focused physical checks, and prescribe targeted medical treatments.",
+      "features": [
+        "Focused symptom examination and clinical history review",
+        "Accurate diagnosis and evidence-based prescription",
+        "Investigation recommendations (lab tests/imaging) only if clinically required",
+        "Clear post-consultation recovery guidance and follow-up plan"
+      ],
+      "icon": "Stethoscope",
+      "isHighlighted": false,
+      "isActive": true,
+      "order": 2
+    },
+    {
+      "id": "preventive-healthcare",
+      "name": "Preventive Healthcare",
+      "slug": "preventive-healthcare",
+      "shortDescription": "Proactive risk profiling, lifestyle modifications, and immunization guidance to identify and mitigate health risks before they develop.",
+      "description": "Preventive Healthcare is the cornerstone of lifelong wellness. Through structured risk profiling, we assess family medical history, cardiovascular risk factors, metabolic health indicators, and lifestyle stressors. We then craft individualized health roadmaps that help you avert common lifestyle illnesses.",
+      "features": [
+        "Cardiovascular and metabolic risk factor evaluation",
+        "Individualized nutrition, stress, and physical exercise counseling",
+        "Adult immunization and vaccination schedule guidance",
+        "Periodic preventive checkup intervals based on age and history"
+      ],
+      "icon": "ShieldCheck",
+      "isHighlighted": false,
+      "isActive": true,
+      "order": 3
+    },
+    {
+      "id": "basic-health-assessment",
+      "name": "Basic Health Assessment",
+      "slug": "basic-health-assessment",
+      "shortDescription": "Essential biometric and physiological checkup for work fitness, school admission, fitness clearance, or routine personal records.",
+      "description": "A fast, accurate, and streamlined health assessment for patients needing an official fitness baseline, pre-employment checkup, or simple periodic health check. It covers essential physiological measurements with prompt documentation provided on request.",
+      "features": [
+        "Height, weight, BMI, and vital biometric recording",
+        "Basic cardiovascular, respiratory, and musculoskeletal check",
+        "Blood pressure and oxygen saturation verification",
+        "Formal assessment summary report upon request"
+      ],
+      "icon": "HeartPulse",
+      "isHighlighted": false,
+      "isActive": true,
+      "order": 4
+    }
+  ],
+  "appointments": [
+    {
+      "id": "apt-seed-1",
+      "patientName": "Karthik Subramanian",
+      "mobileNumber": "9840112345",
+      "email": "karthik.s@example.com",
+      "preferredDate": "2026-11-26",
+      "preferredTime": "10:30 AM",
+      "serviceId": "general-health-checkup",
+      "serviceName": "General Health Checkup",
+      "additionalMessage": "Routine annual checkup, fasting blood sugar preferred.",
+      "status": "pending",
+      "adminNotes": "Patient prefers morning appointment.",
+      "createdAt": "2026-11-24T10:00:00.000Z",
+      "updatedAt": "2026-11-24T10:00:00.000Z"
+    }
+  ],
+  "admin": {
+    "id": "admin-1",
+    "username": "admin",
+    "passwordHash": "$2a$10$qgwGPgknlq/siQX9rP7GLOgvr6tDnTNubjUfVV6vCsNSF5ACycIK.",
+    "name": "Clinic Administrator"
+  }
+}
